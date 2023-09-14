@@ -1,0 +1,16 @@
+h1{
+    color: pink;
+    background-color:yellow;
+    width : 200px;
+    height: 200px;
+}
+.fruit{
+    color:red
+}
+.vegetable{
+    color:green
+}
+
+#one{
+    color:purple
+}
